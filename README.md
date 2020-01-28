@@ -1,7 +1,7 @@
 * VM Image: http://web.stanford.edu/~lenny/files/fault.ova
 * VM Image (Google Drive Mirror): https://drive.google.com/open?id=122P9MjJm-lbR9665flajS73_9H-kzHEm
 * username: fault, password: fault
-* sha1sum: `3a7425cccf5ac62426b351083db05c2864480434  fault.ova`
+* sha1sum: `877463b47a667940c3fc993fca64283b0b103e96  fault.ova`
 
 Full documentation can be found in the `~/cav_artifact/README.md` directory.
 
