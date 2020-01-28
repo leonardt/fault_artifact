@@ -1,13 +1,13 @@
 Full documentation can be found in the `~/cav_artifact/README.md` directory.
 
 # VM
+* User Name: fault
+* Password: fault
 * VirtualBox 6.0
 * Ubuntu (64-bit)
 * 4096 MB RAM
 * 10 GB Virtual Hard Disk (VDI, Dynamically allocated)
 * Installation Media: ubuntu-18.04.3-desktop-amd64.iso
-* User Name: fault
-* Password: fault
 
 # Host
 * macOS Catalina 10.15.2
